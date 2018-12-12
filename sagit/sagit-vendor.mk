@@ -85,6 +85,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_imx386_semco_hdr_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx386_semco_hdr_video_3a.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_imx386_semco_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx386_semco_hfr_120.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_imx386_semco_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx386_semco_hfr_120_3a.so \
+    vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_imx386_semco_hfr_240_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx386_semco_hfr_240_3a.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_imx386_semco_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx386_semco_hfr_60.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_imx386_semco_hfr_60_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx386_semco_hfr_60_3a.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_imx386_semco_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx386_semco_hfr_90.so \
@@ -156,6 +157,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_sagit_imx268_liteon_video_4k.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sagit_imx268_liteon_video_4k.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_sagit_imx268_liteon_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sagit_imx268_liteon_zsl_preview_3a.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_sagit_imx268_liteon_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sagit_imx268_liteon_zsl_video_3a.so \
+    vendor/xiaomi/sagit/proprietary/vendor/lib/libmmcamera_centaur_imx268_ofilm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_centaur_imx268_ofilm.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libmmcamera_imx268.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imx268.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libmmcamera_imx386_semco.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imx386_semco.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libmmcamera_s5k3m3_semco.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3m3_semco.so \
